@@ -53,3 +53,18 @@ p{
   bottom: 300px;
 
 }
+
+.cpp-icon{
+  width: 256px;
+  height:256px;
+}
+
+.csharp-icon{
+  width:265px;
+  height: 256px;
+}
+
+.python-icon{
+  width: 256px;
+  height: 256px;
+}
