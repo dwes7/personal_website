@@ -17,7 +17,7 @@ h1 {
   font-weight: 50;
   color: #84a9ac;
 }
-p{
+.header-text{
   margin-top: 4px;
   margin-bottom: 4px;
   text-align: center;
@@ -54,6 +54,9 @@ p{
 
 }
 
+.skill-row.p{
+  font-color: black;
+}
 .skill-icon{
   width: 256px;
   height: 256px;
