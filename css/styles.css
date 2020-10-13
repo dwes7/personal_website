@@ -4,19 +4,25 @@ html{
 body {
   margin: 0px;
   text-align: center;
+  font-family: 'Merriweather', sans-serif;
 }
 h1 {
   margin-top: 0;
   text-align: center;
+  font-size: 6.625rem;
   margin-bottom: 0;
   color: #1f4068;
+  font-family: 'Sacramento', cursive;
 
 }
-.w3-myfont {
-  font-family: 'Lobster', cursive;
-  font-weight: 50;
-  color: #84a9ac;
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
 }
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
 .header-text{
   margin-top: 4px;
   margin-bottom: 4px;
