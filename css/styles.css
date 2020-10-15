@@ -5,34 +5,40 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', sans-serif;
+  background-color: #6e6658
 }
 h1 {
   margin-top: 0;
+  line-height: 2;
   text-align: center;
   font-size: 6.625rem;
   margin-bottom: 0;
-  color: #1f4068;
-  font-family: 'Sacramento', cursive;
+  color: #112d32;
+  font-family: 'Sansita Swashed', cursive;
 
 }
 h2 {
+  color: #254e58;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
 }
 h3{
+  color: #112d32;
   font-family: 'Montserrat', sans-serif;
 }
+
 
 .header-text{
   margin-top: 4px;
   margin-bottom: 4px;
   text-align: center;
   font-family: sans-serif;
-  color: #e4e3e3;
+  color: black;
+  font-weight: normal;
 
 }
 .my-name-container{
-  background-color: #006a71;
+  background-color: #88bdbc;
   margin-block-start: 0px;
   margin-block-end: 0px;
   margin-inline-start: 0px;
@@ -60,15 +66,28 @@ h3{
 
 }
 
-.skill-row.p{
-  font-color: black;
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
 }
+
+
 .skill-icon{
-  width: 256px;
-  height: 256px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .skill-icon-rect{
-  width: 400px;
-  height: 260px;
+  width: 25%
+  float: right;
+  margin-right: 30px;
+}
+
+.footer-link{
+  color: #11999E
 }
