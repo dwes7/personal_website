@@ -5,7 +5,7 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', sans-serif;
-  background-color: #6e6658
+  background-color: #eeeeee
 }
 h1 {
   margin-top: 0;
@@ -25,6 +25,7 @@ h2 {
 h3{
   color: #112d32;
   font-family: 'Montserrat', sans-serif;
+
 }
 
 
@@ -38,11 +39,7 @@ h3{
 
 }
 .my-name-container{
-  background-color: #88bdbc;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+  background-color: #eeeeee;
   position: relative;
   padding-top: 100px;
 }
@@ -68,9 +65,7 @@ h3{
 
 .skill-row{
   width: 50%;
-  margin: auto;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin:  100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
@@ -83,11 +78,19 @@ h3{
 }
 
 .skill-icon-rect{
-  width: 25%
+  width: 25%;
   float: right;
-  margin-right: 30px;
+  margin-left: 30px;
+
 }
 
 .footer-link{
   color: #11999E
+}
+
+.skill-row-deploy{
+  width: 50%;
+  margin:  150px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
